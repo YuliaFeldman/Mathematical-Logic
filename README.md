@@ -6,4 +6,5 @@ It is an implementation of mathematical logical formulae and logical proofs as P
 In other words, this projects contains methods and functions that deal with Python objects like Formula and Proof.
 For example, propositions/semantics.py file contains a function called is_tautology(formula) which determines if the given logical formula is a yautology, i.e., logically always true. <br /><br />
 
+For additional information take a look at the course book 'Mathematical Logic through Programming' by Yannai A. Gonczarowski and Noam Nisan. <br /><br />
 ![picture](images.png)
