@@ -6,5 +6,4 @@ For example, propositions/semantics.py file contains a function called is_tautol
 
 Created as part of INTRODUCTION TO MATHEMATICAL LOGIC FOR PROGRAMMING-ORIENTED STUDENTS 2020 course @ Hebrew University of Jerusalem
 
-<br />
 ![picture](images.png)
